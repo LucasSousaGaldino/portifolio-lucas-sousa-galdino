@@ -1,6 +1,6 @@
 # Portfólio — Lucas Sousa Galdino
 
-Portfólio estático publicado no GitHub Pages e também servido localmente com Node.js e Express.js.
+Meu primeiro portfólio, publicado no GitHub Pages e também servido localmente com Node.js e Express.js.
 
 ## Requisitos
 
